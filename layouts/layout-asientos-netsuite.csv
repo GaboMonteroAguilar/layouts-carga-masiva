@@ -1,0 +1,3 @@
+External ID,Date,Subsidiary,Currency,Memo,Account,Debit,Credit,Department,Class,Location,Entity,Line Memo
+JE-2026-0001,11/09/2026,Subsidiaria principal,USD,Asiento de ejemplo,6010 Gastos de oficina,150.00,,,,,,Gasto de oficina
+JE-2026-0001,11/09/2026,Subsidiaria principal,USD,Asiento de ejemplo,1000 Caja y bancos,,150.00,,,,,Pago con caja
